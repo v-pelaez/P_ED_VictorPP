@@ -16,7 +16,12 @@ public class Calculadora {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+
     public int sumar(int a, int b) {
         return a + b;
+    }
+
+    public int restar(int a, int b) {
+        return a - b;
     }
 }
